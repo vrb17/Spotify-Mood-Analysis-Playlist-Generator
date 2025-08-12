@@ -1,0 +1,23 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+
+# macOS
+.DS_Store
+
+# SSL certs
+ssl/*.pem
+
+# Node
+node_modules/
+build/
+
+# React
+frontend/node_modules/
+frontend/build/
